@@ -1,4 +1,3 @@
-
 ### Olá eu sou Sarah Daiane 👋
   uma entusiasta iniciante em programação, animada por aprender e crescer nesse campo fascinante da tecnologia. Estou sempre em busca de desafios para aprimorar minhas habilidades e me tornar uma programadora habilidosa.
 
@@ -10,7 +9,7 @@
 
 ![Sarah GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarah2059&show_icons=true&theme=tokyonight)
 
-### Tecnologias que estou aprendendo
+### Tecnologias que estou aprendendo:
 
 <div style = "display: inline_block"> <br/>
 <img align="center" alt="javascript" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
